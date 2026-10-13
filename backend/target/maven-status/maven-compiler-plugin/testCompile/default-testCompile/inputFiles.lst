@@ -1,0 +1,5 @@
+/app/applet/backend/src/test/java/edu/amrita/campusnav/AStarRouterTest.java
+/app/applet/backend/src/test/java/edu/amrita/campusnav/AlgorithmEquivalenceTest.java
+/app/applet/backend/src/test/java/edu/amrita/campusnav/CampusDataValidatorTest.java
+/app/applet/backend/src/test/java/edu/amrita/campusnav/DijkstraRouterTest.java
+/app/applet/backend/src/test/java/edu/amrita/campusnav/DynamicClosureTest.java

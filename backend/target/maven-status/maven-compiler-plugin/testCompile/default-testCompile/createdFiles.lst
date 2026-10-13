@@ -1,0 +1,5 @@
+edu/amrita/campusnav/AStarRouterTest.class
+edu/amrita/campusnav/CampusDataValidatorTest.class
+edu/amrita/campusnav/AlgorithmEquivalenceTest.class
+edu/amrita/campusnav/DijkstraRouterTest.class
+edu/amrita/campusnav/DynamicClosureTest.class

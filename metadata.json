@@ -1,0 +1,6 @@
+{
+  "name": "Amrita Campus Navigator",
+  "description": "Amrita Vishwa Vidyapeetham Chennai Campus Pedestrian Navigation System & DSA Capstone",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
